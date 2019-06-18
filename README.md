@@ -1,1 +1,2 @@
 # nss33-book3-chapter2
+###### As part of your education in object oriented programming, learning about factory functions in JavaScript introduces you to a concept called composition. Composition is the process of combining simpler data structures into more complex ones. It also introduces you to the concept of creating object instances, which you will cover in your server-side course by using classes.
